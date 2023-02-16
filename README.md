@@ -8,7 +8,7 @@ Thanks for [RealWorld Project | Realworld.io](https://github.com/gothinkster/rea
 
 ## Before you start
 
-Please, if necessary, you may adjust server configurations located `application.properties`.
+Please, if necessary, you may adjust server configurations located at `src/main/resources/application.properties`.
 
 Default condifuration will start the server (backend) at `http://localhost:3000/api`.
 
